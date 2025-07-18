@@ -4,7 +4,10 @@ export default function Contact() {
             <div className="container text-center px-3 px-md-4">
                 <h2 className="fw-bold mb-4">Contact</h2>
                 <p className="lead">
-                    Tu peux me contacter par email à <a href="mailto:ayoub@example.com">ayoub@example.com</a> ou sur <a href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>.
+                    Tu peux me contacter par email à <a href="mailto:ayoubnassiri0@gmail.com">ayoubnassiri0@gmail.com</a> ou sur <a href="https://www.linkedin.com/in/ayoub-nassiri-an99" target="_blank" rel="noopener noreferrer">
+                    www.linkedin.com/in/ayoub-nassiri-an99
+                </a>
+                    .
                 </p>
             </div>
         </section>
